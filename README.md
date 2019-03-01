@@ -1,24 +1,14 @@
-# 🎰 Week05 Bootcamp2019a Project: Slot Machine
+# Slot Machine Project
 
-### Goal: Build a Simple Slot Machine
+This web application allows users to bet maximum and minimum values to receive random results on their winning sorted house. In this case, the slot machine was used to sort students as seen on Harry Potter through a new and creative lottery system.
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+## How It's Made
 
-### How to submit your code for review:
+Tech used: HTML, CSS, & JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Optimizations
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I would add a feature to allow the user to input information about themselves to also see how their personalities, strengths, and weaknesses can also come to play in which house they are sorted into.
+
+## Lessons Learned
+Through this project, I was able to further my learning when utilizing Math.random as well as declaring the maximum and minimum total values for each reel.
